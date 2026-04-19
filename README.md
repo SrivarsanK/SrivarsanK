@@ -1,5 +1,5 @@
 # 🧑 K.Srivarsan
-**`Student Developer | Mental Health Advocate | Tech Innovator`** 
+**`Student Developer | Full-Stack Developer | Tech Innovator`** 
 
 - I build, code, and create solutions that matter in public.
 - Passionate about combining AI, health tech, and mobile development to solve real-world problems.
