@@ -59,18 +59,12 @@
   </tr>
 </table>
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SrivarsanK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=SrivarsanK&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SrivarsanK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Stats
-<!-- Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Srivarsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivarsank&show_icons=true&theme=highcontrast)
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
