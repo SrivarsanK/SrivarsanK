@@ -20,7 +20,7 @@
   <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/SrivarsanK/Glide">
-        <img src="https://raw.githubusercontent.com/SrivarsanK/Glide/main/ui/guide.png" style="width:100%; height:160px; object-fit:cover; border-radius:6px;" alt="Glide Visual Editor"/>
+        <img src="https://raw.githubusercontent.com/SrivarsanK/Glide/main/ui/guide.png" style="width:100%; height:160px; object-fit:cover; border-radius:6px; border: 2px solid #ef4444;" alt="Glide Visual Editor"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/SrivarsanK/Glide">Glide</a></b><br/>
@@ -31,7 +31,7 @@
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/SrivarsanK/RideSuraksha">
-        <img src="https://raw.githubusercontent.com/SrivarsanK/SrivarsanK/main/ridesuraksha.png" style="width:100%; height:160px; object-fit:cover; border-radius:6px;" alt="RideSuraksha - Parametric Income Insurance"/>
+        <img src="https://raw.githubusercontent.com/SrivarsanK/SrivarsanK/main/ridesuraksha.png" style="width:100%; height:160px; object-fit:cover; border-radius:6px; border: 2px solid #eab308;" alt="RideSuraksha - Parametric Income Insurance"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/SrivarsanK/RideSuraksha">RideSuraksha</a></b><br/>
@@ -42,7 +42,7 @@
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/SrivarsanK/aws_a4b">
-        <img src="https://placehold.co/600x320/161b22/58a6ff?text=Nexus+Solo" style="width:100%; height:160px; object-fit:cover; border-radius:6px;" alt="Nexus Solo - AI Creator Command Center"/>
+        <img src="https://placehold.co/600x320/161b22/58a6ff?text=Nexus+Solo" style="width:100%; height:160px; object-fit:cover; border-radius:6px; border: 2px solid #eab308;" alt="Nexus Solo - AI Creator Command Center"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/SrivarsanK/aws_a4b">Nexus Solo</a></b><br/>
