@@ -20,13 +20,13 @@
   <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/SrivarsanK/Glide">
-        <img src="https://placehold.co/600x300/161b22/58a6ff?text=Glide" width="100%" alt="Glide - Visual Code Editor"/>
+        <img src="https://raw.githubusercontent.com/SrivarsanK/Glide/main/ui/guide.png" width="100%" style="border-radius:6px; max-height:160px; object-fit:cover;" alt="Glide Visual Editor"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/SrivarsanK/Glide">Glide</a></b><br/>
-      <sub>Local visual design editor for React & frontend apps with direct AST write-back to source code.</sub><br/><br/>
+      <sub>Figma-like local visual editor for React, Vue & Svelte with direct AST write-back to source code.</sub><br/><br/>
       🔗 <a href="https://github.com/SrivarsanK/Glide"><b>GitHub Repo</b></a><br/>
-      <sub><b>Tags:</b> TypeScript · Visual Editor · AST · React</sub>
+      <sub><b>Tags:</b> TypeScript · React / Vue / Svelte · AST Write-back · Vite</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/SrivarsanK/RideSuraksha">
