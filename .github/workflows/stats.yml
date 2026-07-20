@@ -1,0 +1,30 @@
+name: Generate GitHub Readme Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Readme Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: SrivarsanK
+          show_icons: true
+          theme: dark
+
+      - name: Commit & Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update github readme stats"
+          file_pattern: "generated/*"
