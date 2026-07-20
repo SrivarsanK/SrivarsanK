@@ -35,6 +35,7 @@
       <br/><br/>
       <b><a href="https://github.com/SrivarsanK/RideSuraksha">RideSuraksha</a></b><br/>
       <sub>Parametric income insurance platform for gig delivery workers with automated API weather/AQI claim triggers & XGBoost risk pricing.</sub><br/><br/>
+      🏆 <sub><b>Hackathon:</b> <a href="https://www.guidewire.com/resources/blog/developers/guidewire-devtrails-turns-a-university-hackathon-into-a-real-world-build"><b>GUIDEWIRE DevTrails</b></a></sub><br/>
       🔗 <a href="https://github.com/SrivarsanK/RideSuraksha"><b>GitHub Repo</b></a><br/>
       <sub><b>Tags:</b> Next.js · TypeScript · FastAPI · XGBoost · InsurTech</sub>
     </td>
@@ -45,6 +46,7 @@
       <br/><br/>
       <b><a href="https://github.com/SrivarsanK/aws_a4b">Nexus Solo</a></b><br/>
       <sub>AI-powered multi-agent command center (LangGraph & LLMs) automating creator management, trend scouting, PR crisis detection & analytics.</sub><br/><br/>
+      🏆 <sub><b>Hackathon:</b> <a href="https://hack2skill.com/event/ai-for-bharat?utm_source=hack2skill&utm_medium=homepage&utm_campaign=&utm_term=&utm_content="><b>AI for Bharat (2026) by AWS</b></a></sub><br/>
       🔗 <a href="https://github.com/SrivarsanK/aws_a4b"><b>GitHub Repo</b></a><br/>
       <sub><b>Tags:</b> Python · LangGraph · Multi-Agent AI · LLMs · Creator Economy</sub>
     </td>
