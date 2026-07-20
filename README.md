@@ -73,6 +73,14 @@
       <sub><b>Tags:</b> TypeScript · AWS · Automation</sub>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/SrivarsanK/stackscan">
+        <img src="https://placehold.co/600x320/0f172a/38bdf8?text=StackScan+%F0%9F%94%8D" width="100%" alt="StackScan Preview"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/SrivarsanK/stackscan">StackScan</a></b><br/>
+      <sub>Automated tech stack scanner and project dependency analyzer.</sub>
+      <br/><br/>
+      <sub><b>Tags:</b> TypeScript · Security · DevTools</sub>
     </td>
   </tr>
 </table>
