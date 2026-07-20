@@ -7,8 +7,8 @@
 **`AI & Full-Stack Developer`** — building products at the intersection of AI, health tech, and mobile.
 
 - 🌟 Currently building **[Glide](https://github.com/SrivarsanK/Glide)**
-- 🎓 B.Tech AI, SRMIST — Class of 2028
-- 📍 Chennai, India
+- 🎓 B.Tech AI, SRM Institute of Science & Technology, Ramapuram — Class of 2028
+- 📍 Chennai,Tamil Nadu, India
 
 ## Skill stack
 
