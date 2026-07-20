@@ -84,13 +84,9 @@
 <h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ksrivarsan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/KSrivarsan" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://www.instagram.com/srivarsankannan/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="https://www.linkedin.com/in/ksrivarsan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/KSrivarsan"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/srivarsankannan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
