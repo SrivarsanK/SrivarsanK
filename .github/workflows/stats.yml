@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          card: overview
+          card: stats
           options: '{"username":"SrivarsanK","show_icons":true,"theme":"dark"}'
           path: generated/overview.svg
 
@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          card: languages
+          card: top-langs
           options: '{"username":"SrivarsanK","layout":"compact","theme":"dark"}'
           path: generated/languages.svg
 
