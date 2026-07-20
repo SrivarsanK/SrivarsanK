@@ -12,11 +12,13 @@
 
 **Also comfortable with:** SQL (MySQL, PostgreSQL), CI/CD pipelines, Edge Impulse (embedded ML)
 
+---
+
 ## Projects
 
 <table>
   <tr>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="33%" valign="top">
       <a href="https://github.com/SrivarsanK/Glide">
         <img src="https://placehold.co/600x300/161b22/58a6ff?text=Glide" width="100%" alt="Glide"/>
       </a>
@@ -26,7 +28,7 @@
       🔗 <a href="https://github.com/SrivarsanK/Glide">Repo</a><br/>
       <sub><b>Tags:</b> TypeScript · AI · IDE</sub>
     </td>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="33%" valign="top">
       <a href="https://github.com/SrivarsanK/RideSuraksha">
         <img src="https://placehold.co/600x300/161b22/58a6ff?text=RideSuraksha" width="100%" alt="RideSuraksha"/>
       </a>
@@ -36,31 +38,7 @@
       🔗 <a href="https://github.com/SrivarsanK/RideSuraksha">Repo</a><br/>
       <sub><b>Tags:</b> TypeScript · Mobile · Safety</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/SrivarsanK/MindBridge">
-        <img src="https://placehold.co/600x300/161b22/58a6ff?text=MindBridge" width="100%" alt="MindBridge"/>
-      </a>
-      <br/><br/>
-      <b>MindBridge</b><br/>
-      <sub>Mental health monitoring app tracking stress patterns & support resources.</sub><br/>
-      🔗 <a href="https://github.com/SrivarsanK/MindBridge">Repo</a><br/>
-      <sub><b>Tags:</b> AI · LLMs · Mental Health · TypeScript</sub>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/SrivarsanK/UrjaBandhu">
-        <img src="https://placehold.co/600x300/161b22/58a6ff?text=UrjaBandhu" width="100%" alt="UrjaBandhu"/>
-      </a>
-      <br/><br/>
-      <b>UrjaBandhu</b><br/>
-      <sub>Short-term electricity load forecasting web app reducing power bills.</sub><br/>
-      🔗 <a href="https://github.com/SrivarsanK/UrjaBandhu">Repo</a><br/>
-      <sub><b>Tags:</b> AI · LLMs · Load Forecasting · TypeScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="33%" valign="top">
       <a href="https://github.com/SrivarsanK/aws_a4b">
         <img src="https://placehold.co/600x300/161b22/58a6ff?text=Nexus+Solo" width="100%" alt="Nexus Solo"/>
       </a>
@@ -69,16 +47,6 @@
       <sub>AWS & Alexa for Business integration framework for smart office automation.</sub><br/>
       🔗 <a href="https://github.com/SrivarsanK/aws_a4b">Repo</a><br/>
       <sub><b>Tags:</b> TypeScript · AWS · Automation</sub>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/SrivarsanK/stackscan">
-        <img src="https://placehold.co/600x300/161b22/58a6ff?text=StackScan" width="100%" alt="StackScan"/>
-      </a>
-      <br/><br/>
-      <b>StackScan</b><br/>
-      <sub>Automated tech stack scanner and project dependency analyzer.</sub><br/>
-      🔗 <a href="https://github.com/SrivarsanK/stackscan">Repo</a><br/>
-      <sub><b>Tags:</b> TypeScript · Security · DevTools</sub>
     </td>
   </tr>
 </table>
