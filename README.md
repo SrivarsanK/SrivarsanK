@@ -20,33 +20,33 @@
   <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/SrivarsanK/Glide">
-        <img src="https://placehold.co/600x300/161b22/58a6ff?text=Glide" width="100%" alt="Glide"/>
+        <img src="https://placehold.co/600x300/161b22/58a6ff?text=Glide" width="100%" alt="Glide - Visual Code Editor"/>
       </a>
       <br/><br/>
-      <b>Glide</b><br/>
-      <sub>AI-powered visual code editor and development workspace.</sub><br/>
-      🔗 <a href="https://github.com/SrivarsanK/Glide">Repo</a><br/>
-      <sub><b>Tags:</b> TypeScript · AI · IDE</sub>
+      <b><a href="https://github.com/SrivarsanK/Glide">Glide</a></b><br/>
+      <sub>Local visual design editor for React & frontend apps with direct AST write-back to source code.</sub><br/><br/>
+      🔗 <a href="https://github.com/SrivarsanK/Glide"><b>GitHub Repo</b></a><br/>
+      <sub><b>Tags:</b> TypeScript · Visual Editor · AST · React</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/SrivarsanK/RideSuraksha">
-        <img src="https://placehold.co/600x300/161b22/58a6ff?text=RideSuraksha" width="100%" alt="RideSuraksha"/>
+        <img src="https://placehold.co/600x300/161b22/58a6ff?text=RideSuraksha" width="100%" alt="RideSuraksha - Smart Rider Safety"/>
       </a>
       <br/><br/>
-      <b>RideSuraksha</b><br/>
-      <sub>Rider safety & emergency assistance tracking mobile app.</sub><br/>
-      🔗 <a href="https://github.com/SrivarsanK/RideSuraksha">Repo</a><br/>
-      <sub><b>Tags:</b> TypeScript · Mobile · Safety</sub>
+      <b><a href="https://github.com/SrivarsanK/RideSuraksha">RideSuraksha</a></b><br/>
+      <sub>Smart rider safety system featuring crash detection algorithms & automated emergency SOS dispatch.</sub><br/><br/>
+      🔗 <a href="https://github.com/SrivarsanK/RideSuraksha"><b>GitHub Repo</b></a><br/>
+      <sub><b>Tags:</b> TypeScript · IoT · Mobile Safety · Emergency SOS</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/SrivarsanK/aws_a4b">
-        <img src="https://placehold.co/600x300/161b22/58a6ff?text=Nexus+Solo" width="100%" alt="Nexus Solo"/>
+        <img src="https://placehold.co/600x330/161b22/58a6ff?text=Nexus+Solo" width="100%" alt="Nexus Solo - AWS Office Automation"/>
       </a>
       <br/><br/>
-      <b>Nexus Solo</b><br/>
-      <sub>AWS & Alexa for Business integration framework for smart office automation.</sub><br/>
-      🔗 <a href="https://github.com/SrivarsanK/aws_a4b">Repo</a><br/>
-      <sub><b>Tags:</b> TypeScript · AWS · Automation</sub>
+      <b><a href="https://github.com/SrivarsanK/aws_a4b">Nexus Solo</a></b><br/>
+      <sub>Smart office automation framework leveraging AWS services and Alexa for Business voice workflows.</sub><br/><br/>
+      🔗 <a href="https://github.com/SrivarsanK/aws_a4b"><b>GitHub Repo</b></a><br/>
+      <sub><b>Tags:</b> TypeScript · AWS · Cloud Automation · Voice UI</sub>
     </td>
   </tr>
 </table>
