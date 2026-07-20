@@ -40,8 +40,8 @@ Tags: TypeScript
 
 ## 📊 GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=SrivarsanK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/SrivarsanK)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrivarsanK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/SrivarsanK)
+[![](https://github-readme-stats.shion.dev/api?username=SrivarsanK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/SrivarsanK)
+[![](https://github-readme-stats.shion.dev/api/top-langs/?username=SrivarsanK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/SrivarsanK)
 
 ## Links
 
