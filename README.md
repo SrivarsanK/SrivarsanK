@@ -12,8 +12,6 @@
 
 **Also comfortable with:** SQL (MySQL, PostgreSQL), CI/CD pipelines, Edge Impulse (embedded ML)
 
----
-
 ## Projects
 
 <table>
