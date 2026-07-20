@@ -40,8 +40,14 @@ Tags: TypeScript
 
 ## 📊 GitHub Stats
 
-[![](https://github-readme-stats.shion.dev/api?username=SrivarsanK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/SrivarsanK)
-[![](https://github-readme-stats.shion.dev/api/top-langs/?username=SrivarsanK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/SrivarsanK)
+<p align="left">
+  <a href="https://github.com/SrivarsanK">
+    <img src="https://github-readme-stats.shion.dev/api?username=SrivarsanK&theme=dark&show_icons=true&hide_border=false" height="180" alt="SrivarsanK GitHub Stats" />
+  </a>
+  <a href="https://github.com/SrivarsanK">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SrivarsanK&theme=dark&hide_border=false&layout=compact" height="180" alt="Most Used Languages" />
+  </a>
+</p>
 
 ## Links
 
