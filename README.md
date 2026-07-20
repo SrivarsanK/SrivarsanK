@@ -25,8 +25,8 @@
       <br/><br/>
       <b><a href="https://github.com/SrivarsanK/Glide">Glide</a></b><br/>
       <sub>Figma-like local visual editor for React, Vue & Svelte with direct AST write-back to source code.</sub><br/><br/>
-      🌐 <sub><b>Type:</b> Open Source Project</sub><br/>
-      🔗 <sub><a href="https://github.com/SrivarsanK/Glide"><b>GitHub Repo</b></a></sub><br/>
+      <sub>🌐 <b>Type:</b> Open Source Project</sub><br/>
+      <sub>🔗 <a href="https://github.com/SrivarsanK/Glide"><b>GitHub Repo</b></a></sub><br/>
       <sub><b>Tags:</b> TypeScript · React · AST · Vite</sub>
     </td>
     <td align="center" width="33%" valign="top">
@@ -36,8 +36,8 @@
       <br/><br/>
       <b><a href="https://github.com/SrivarsanK/RideSuraksha">RideSuraksha</a></b><br/>
       <sub>Parametric income insurance platform for gig delivery workers with automated API claim triggers & XGBoost risk pricing.</sub><br/><br/>
-      🏆 <sub><b>Hackathon:</b> <a href="https://www.guidewire.com/resources/blog/developers/guidewire-devtrails-turns-a-university-hackathon-into-a-real-world-build"><b>GUIDEWIRE DevTrails</b></a> (Semi-Finalist)</sub><br/>
-      🔗 <sub><a href="https://github.com/SrivarsanK/RideSuraksha"><b>GitHub Repo</b></a></sub><br/>
+      <sub>🏆 <b>Hackathon:</b> <a href="https://www.guidewire.com/resources/blog/developers/guidewire-devtrails-turns-a-university-hackathon-into-a-real-world-build"><b>GUIDEWIRE DevTrails</b></a> (Semi-Finalist)</sub><br/>
+      <sub>🔗 <a href="https://github.com/SrivarsanK/RideSuraksha"><b>GitHub Repo</b></a></sub><br/>
       <sub><b>Tags:</b> Next.js · TypeScript · FastAPI · InsurTech</sub>
     </td>
     <td align="center" width="33%" valign="top">
@@ -47,8 +47,8 @@
       <br/><br/>
       <b><a href="https://github.com/SrivarsanK/aws_a4b">Nexus Solo</a></b><br/>
       <sub>AI-powered multi-agent command center (LangGraph & LLMs) automating creator management, trend scouting & analytics.</sub><br/><br/>
-      🏆 <sub><b>Hackathon:</b> <a href="https://hack2skill.com/event/ai-for-bharat?utm_source=hack2skill&utm_medium=homepage&utm_campaign=&utm_term=&utm_content="><b>AI for Bharat by AWS</b></a> (2nd Round)</sub><br/>
-      🔗 <sub><a href="https://github.com/SrivarsanK/aws_a4b"><b>GitHub Repo</b></a></sub><br/>
+      <sub>🏆 <b>Hackathon:</b> <a href="https://hack2skill.com/event/ai-for-bharat?utm_source=hack2skill&utm_medium=homepage&utm_campaign=&utm_term=&utm_content="><b>AI for Bharat by AWS</b></a> (2nd Round)</sub><br/>
+      <sub>🔗 <a href="https://github.com/SrivarsanK/aws_a4b"><b>GitHub Repo</b></a></sub><br/>
       <sub><b>Tags:</b> Python · LangGraph · LLMs · Multi-Agent</sub>
     </td>
   </tr>
