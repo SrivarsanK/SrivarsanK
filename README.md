@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SrivarsanK/SrivarsanK/main/banner.gif" width="100%" alt="Header Banner" />
+</p>
+
 # 🧑 K. Srivarsan
 
 **`AI & Full-Stack Developer`** — building products at the intersection of AI, health tech, and mobile.
