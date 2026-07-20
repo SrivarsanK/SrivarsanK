@@ -12,7 +12,7 @@
 
 ## Skill stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,typescript,nextjs,astro,nodejs,discordjs,davinci,docker,git,github,mysql,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,typescript,nextjs,astro,nodejs,discordjs,docker,git,github,mysql,figma&theme=light)](https://skillicons.dev)
 
 **Also comfortable with:** SQL (MySQL, PostgreSQL), CI/CD pipelines, Edge Impulse (embedded ML)
 
