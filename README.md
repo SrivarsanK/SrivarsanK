@@ -40,13 +40,13 @@
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/SrivarsanK/aws_a4b">
-        <img src="https://placehold.co/600x300/161b22/58a6ff?text=Nexus+Solo" width="100%" alt="Nexus Solo - AWS Alexa for Business"/>
+        <img src="https://placehold.co/600x300/161b22/58a6ff?text=Nexus+Solo" width="100%" alt="Nexus Solo - AI Creator Command Center"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/SrivarsanK/aws_a4b">Nexus Solo</a></b><br/>
-      <sub>AWS Alexa for Business (A4B) integration framework for automated voice skills and smart workplace management.</sub><br/><br/>
+      <sub>AI-powered multi-agent command center (LangGraph & LLMs) automating creator management, trend scouting, PR crisis detection & analytics.</sub><br/><br/>
       🔗 <a href="https://github.com/SrivarsanK/aws_a4b"><b>GitHub Repo</b></a><br/>
-      <sub><b>Tags:</b> TypeScript · AWS A4B · Alexa Skills · Voice Automation</sub>
+      <sub><b>Tags:</b> Python · LangGraph · Multi-Agent AI · LLMs · Creator Economy</sub>
     </td>
   </tr>
 </table>
