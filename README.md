@@ -4,13 +4,15 @@
 
 # 🧑 K. Srivarsan
 
-**`AI & Full-Stack Developer`** — building products at the intersection of AI, health tech, and mobile.
+**`AI & Full-Stack Developer`** | Building products at the intersection of AI, health tech, and mobile.
 
 - 🌟 Currently building **[Glide](https://github.com/SrivarsanK/Glide)**
-- 🎓 B.Tech AI, SRM Institute of Science & Technology, Ramapuram — Class of 2028
-- 📍 Chennai,Tamil Nadu, India
+- 🎓 B.Tech AI, SRM Institute of Science & Technology (Ramapuram) | Class of 2028
+- 📍 Chennai, Tamil Nadu, India
 
-## Skill stack
+---
+
+## 🛠️ Skill Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,typescript,nextjs,astro,nodejs,discordjs,docker,git,github,mysql,figma&theme=light)](https://skillicons.dev)
 
@@ -18,7 +20,7 @@
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -77,7 +79,9 @@
   </a>
 </p>
 
-## Links
+---
+
+## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksrivarsan/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srivarsankannan/)
