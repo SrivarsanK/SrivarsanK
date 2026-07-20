@@ -30,7 +30,7 @@
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/SrivarsanK/RideSuraksha">
-        <img src="https://placehold.co/600x300/161b22/58a6ff?text=RideSuraksha" width="100%" alt="RideSuraksha - Parametric Income Insurance"/>
+        <img src="https://raw.githubusercontent.com/SrivarsanK/SrivarsanK/main/ridesuraksha.png" width="100%" style="border-radius:6px; max-height:160px; object-fit:cover;" alt="RideSuraksha - Parametric Income Insurance"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/SrivarsanK/RideSuraksha">RideSuraksha</a></b><br/>
