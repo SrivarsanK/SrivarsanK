@@ -42,10 +42,10 @@ Tags: TypeScript
 
 <p align="left">
   <a href="https://github.com/SrivarsanK">
-    <img src="https://github-readme-stats.shion.dev/api?username=SrivarsanK&theme=dark&show_icons=true&hide_border=false" height="180" alt="SrivarsanK GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=SrivarsanK&rank_icon=github&custom_title=Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/SrivarsanK">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SrivarsanK&theme=dark&hide_border=false&layout=compact" height="180" alt="Most Used Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SrivarsanK&layout=donut-vertical&langs_count=4&hide_values=true&theme=chartreuse-dark" alt="Top Languages" />
   </a>
 </p>
 
