@@ -39,7 +39,7 @@
       <b><a href="https://github.com/SrivarsanK/RideSuraksha">RideSuraksha</a></b><br/>
       <sub>Parametric income insurance platform for gig delivery workers with automated API claim triggers & XGBoost risk pricing.</sub><br/><br/>
       <a href="https://www.guidewire.com/resources/blog/developers/guidewire-devtrails-turns-a-university-hackathon-into-a-real-world-build">
-        <img src="https://img.shields.io/badge/HACKATHON-GUIDEWIRE%20DevTrails%20%7C%20Semi--Finalist-eab308?style=flat-square" alt="Hackathon"/>
+        <img src="https://img.shields.io/badge/HACKATHON-GUIDEWIRE%20DevTrails%20%7C%20Semi--Finalist-d97706?style=flat-square" alt="Hackathon"/>
       </a><br/>
       <sub>🔗 <a href="https://github.com/SrivarsanK/RideSuraksha"><b>GitHub Repo</b></a></sub><br/>
       <sub><b>Tags:</b> Next.js · TypeScript · FastAPI · InsurTech</sub>
@@ -52,7 +52,7 @@
       <b><a href="https://github.com/SrivarsanK/aws_a4b">Nexus Solo</a></b><br/>
       <sub>AI-powered multi-agent command center (LangGraph & LLMs) automating creator management, trend scouting & analytics.</sub><br/><br/>
       <a href="https://hack2skill.com/event/ai-for-bharat?utm_source=hack2skill&utm_medium=homepage&utm_campaign=&utm_term=&utm_content=">
-        <img src="https://img.shields.io/badge/HACKATHON-AI%20for%20Bharat%20AWS%20%7C%202nd%20Round-eab308?style=flat-square" alt="Hackathon"/>
+        <img src="https://img.shields.io/badge/HACKATHON-AI%20for%20Bharat%20AWS%20%7C%202nd%20Round-d97706?style=flat-square" alt="Hackathon"/>
       </a><br/>
       <sub>🔗 <a href="https://github.com/SrivarsanK/aws_a4b"><b>GitHub Repo</b></a></sub><br/>
       <sub><b>Tags:</b> Python · LangGraph · LLMs · Multi-Agent</sub>
