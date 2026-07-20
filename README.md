@@ -16,25 +16,66 @@
 
 ## Projects
 
-**[Glide](https://github.com/SrivarsanK/Glide)**
-<!-- TODO: one-line description — what does Glide do, and for whom? -->
-Tags: TypeScript
-
-**[RideSuraksha](https://github.com/SrivarsanK/RideSuraksha)**
-<!-- TODO: one-line description -->
-Tags: TypeScript
-
-**[MindBridge](https://github.com/SrivarsanK/MindBridge)**
-A mental health monitoring app that helps users track stress patterns and connects them with support resources.
-Tags: AI, LLMs, Mental Health, TypeScript
-
-**[UrjaBandhu](https://github.com/SrivarsanK/UrjaBandhu)**
-A short-term electricity load forecasting web app that helps households and small businesses reduce their power bills.
-Tags: AI, LLMs, Load Forecasting, TypeScript
-
-**[aws_a4b](https://github.com/SrivarsanK/aws_a4b)**
-<!-- TODO: one-line description -->
-Tags: TypeScript
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SrivarsanK/Glide">
+        <img src="https://placehold.co/600x320/0f172a/38bdf8?text=Glide+%E2%9A%A1" width="100%" alt="Glide Preview"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/SrivarsanK/Glide">Glide</a></b><br/>
+      <sub>AI-powered visual code editor and development workspace.</sub>
+      <br/><br/>
+      <sub><b>Tags:</b> TypeScript · AI · IDE</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SrivarsanK/RideSuraksha">
+        <img src="https://placehold.co/600x320/0f172a/38bdf8?text=RideSuraksha+%F0%9F%9B%A1%EF%B8%8F" width="100%" alt="RideSuraksha Preview"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/SrivarsanK/RideSuraksha">RideSuraksha</a></b><br/>
+      <sub>Rider safety & emergency assistance tracking mobile app.</sub>
+      <br/><br/>
+      <sub><b>Tags:</b> TypeScript · Mobile · Safety</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SrivarsanK/MindBridge">
+        <img src="https://placehold.co/600x320/0f172a/38bdf8?text=MindBridge+%F0%9F%A7%A0" width="100%" alt="MindBridge Preview"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/SrivarsanK/MindBridge">MindBridge</a></b><br/>
+      <sub>Mental health monitoring app that tracks stress patterns and connects users with support resources.</sub>
+      <br/><br/>
+      <sub><b>Tags:</b> AI · LLMs · Mental Health · TypeScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SrivarsanK/UrjaBandhu">
+        <img src="https://placehold.co/600x320/0f172a/38bdf8?text=UrjaBandhu+%E2%9A%A1" width="100%" alt="UrjaBandhu Preview"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/SrivarsanK/UrjaBandhu">UrjaBandhu</a></b><br/>
+      <sub>Short-term electricity load forecasting web app reducing power bills for households & small businesses.</sub>
+      <br/><br/>
+      <sub><b>Tags:</b> AI · LLMs · Load Forecasting · TypeScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SrivarsanK/aws_a4b">
+        <img src="https://placehold.co/600x320/0f172a/38bdf8?text=Nexus+Solo+%E2%98%81%EF%B8%8F" width="100%" alt="Nexus Solo Preview"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/SrivarsanK/aws_a4b">Nexus Solo</a></b><br/>
+      <sub>AWS & Alexa for Business integration framework for smart office automation.</sub>
+      <br/><br/>
+      <sub><b>Tags:</b> TypeScript · AWS · Automation</sub>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
 
 ---
 
