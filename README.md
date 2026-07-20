@@ -30,13 +30,13 @@
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/SrivarsanK/RideSuraksha">
-        <img src="https://placehold.co/600x300/161b22/58a6ff?text=RideSuraksha" width="100%" alt="RideSuraksha - Smart Rider Safety"/>
+        <img src="https://placehold.co/600x300/161b22/58a6ff?text=RideSuraksha" width="100%" alt="RideSuraksha - Parametric Income Insurance"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/SrivarsanK/RideSuraksha">RideSuraksha</a></b><br/>
-      <sub>Smart rider safety system featuring crash detection algorithms & automated emergency SOS dispatch.</sub><br/><br/>
+      <sub>Parametric income insurance platform for gig delivery workers with automated API weather/AQI claim triggers & XGBoost risk pricing.</sub><br/><br/>
       🔗 <a href="https://github.com/SrivarsanK/RideSuraksha"><b>GitHub Repo</b></a><br/>
-      <sub><b>Tags:</b> TypeScript · IoT · Mobile Safety · Emergency SOS</sub>
+      <sub><b>Tags:</b> Next.js · TypeScript · FastAPI · XGBoost · InsurTech</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/SrivarsanK/aws_a4b">
