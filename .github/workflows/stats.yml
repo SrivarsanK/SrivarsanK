@@ -15,13 +15,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Readme Stats
+      - name: Generate Overview Stats Card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          username: SrivarsanK
-          show_icons: true
-          theme: dark
+          card: overview
+          options: '{"username":"SrivarsanK","show_icons":true,"theme":"dark"}'
+          path: generated/overview.svg
+
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: languages
+          options: '{"username":"SrivarsanK","layout":"compact","theme":"dark"}'
+          path: generated/languages.svg
 
       - name: Commit & Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
