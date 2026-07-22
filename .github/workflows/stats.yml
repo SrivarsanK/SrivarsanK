@@ -20,7 +20,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           card: stats
-          options: '{"username":"SrivarsanK","show_icons":true,"theme":"dark"}'
+          options: '{"username":"SrivarsanK","show_icons":true,"theme":"dark","include_all_commits":true}'
           path: generated/overview.svg
 
       - name: Generate Top Languages Card
