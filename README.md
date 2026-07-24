@@ -74,7 +74,7 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SrivarsanK&theme=transparent&fire=FF5722&ring=FF5722&currStreakNum=FF5722&currStreakLabel=FF5722" alt="GitHub Streak" height="180" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/SrivarsanK"><img src="https://github-stats-extended.vercel.app/api?username=SrivarsanK&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent&v=1" alt="GitHub Stats" height="180" /></a>&nbsp;<a href="https://github.com/SrivarsanK"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=SrivarsanK&layout=donut&langs_count=4&theme=transparent&v=1" alt="Top Languages" height="180" /></a>
+  <a href="https://github.com/SrivarsanK"><img src="https://github-readme-stats-ten-lemon-74.vercel.app/api?username=SrivarsanK&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" height="180" /></a>&nbsp;<a href="https://github.com/SrivarsanK"><img src="https://github-readme-stats-ten-lemon-74.vercel.app/api/top-langs?username=SrivarsanK&layout=donut&langs_count=4&theme=transparent" alt="Top Languages" height="180" /></a>
 </p>
 
 ---
