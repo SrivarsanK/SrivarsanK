@@ -71,10 +71,10 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SrivarsanK&theme=transparent" alt="GitHub Streak" width="100%" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SrivarsanK&theme=transparent" alt="GitHub Streak" height="195" /></a>
 </p>
 <p align="left">
-  <a href="https://github.com/SrivarsanK"><img src="https://github-stats-extended.vercel.app/api?username=SrivarsanK&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" height="195" /></a>&nbsp;<a href="https://github.com/SrivarsanK"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=SrivarsanK&layout=donut&langs_count=4&theme=transparent" alt="Top Languages" height="195" /></a>
+  <a href="https://github.com/SrivarsanK"><img src="https://github-stats-extended.vercel.app/api?username=SrivarsanK&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" height="195" /></a>&nbsp;<a href="https://github.com/SrivarsanK"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=SrivarsanK&layout=donut&langs_count=4&theme=transparent&card_width=417" alt="Top Languages" height="195" /></a>
 </p>
 
 ---
