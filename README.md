@@ -71,12 +71,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/SrivarsanK">
-    <img src="https://raw.githubusercontent.com/SrivarsanK/SrivarsanK/main/generated/overview.svg" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/SrivarsanK">
-    <img src="https://raw.githubusercontent.com/SrivarsanK/SrivarsanK/main/generated/languages.svg" alt="Top Languages" />
-  </a>
+  <a href="https://github.com/SrivarsanK"><img src="https://github-stats-extended.vercel.app/api?username=SrivarsanK&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" /></a>&nbsp;<a href="https://github.com/SrivarsanK"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=SrivarsanK&layout=donut&langs_count=4&theme=transparent" alt="Top Languages" /></a>
 </p>
 
 ---
