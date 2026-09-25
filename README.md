@@ -26,7 +26,7 @@
   <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/SrivarsanK/Glide">
-        <img src="https://raw.githubusercontent.com/SrivarsanK/Glide/main/ui/guide.png" width="100%" alt="Glide Visual Editor"/>
+        <img src="https://raw.githubusercontent.com/SrivarsanK/SrivarsanK/main/glide.png" width="100%" alt="Glide Visual Editor"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/SrivarsanK/Glide">Glide</a></b><br/>
